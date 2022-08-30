@@ -54,6 +54,7 @@ If you have a change to propose, create a pull request.
 ## TODO list
 
 - Add Topojson data
+- Add SQL version
 - Add Check constraint on pipeline
 
 ## Source
@@ -63,8 +64,6 @@ All this data was generated using [IBGE's geo data](http://www.ibge.gov.br).
 ## Inspired on
 - [Kelvins](https://github.com/kelvins/Municipios-Brasileiros)
 - [Luiz Pedone](https://github.com/luizpedone/municipal-brazilian-geodata)
-
-All this data was generated using [IBGE's geo data](http://www.ibge.gov.br).
 
 ## License
 
